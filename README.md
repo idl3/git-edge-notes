@@ -1,8 +1,9 @@
-# git-edge-notes
+# git-edge-notes — abandoned
 
-**Reserved / deferred.** Sister service for [git-edge](https://github.com/idl3/git-edge).
+Name reservation **withdrawn**. Do not use this repository.
 
-This repository is a name reservation only. Implementation is not started.
-See git-edge's ROADMAP and product docs for layering intent.
+Core `git notes` / `refs/notes/*` remain ordinary git refs on
+[git-edge](https://github.com/idl3/git-edge) over smart HTTP. There will be
+no separate notes product or API repository.
 
-Apache-2.0 when code lands (aligned with git-edge).
+Delete this repo when `delete_repo` scope is available on the creating token.
